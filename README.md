@@ -14,7 +14,7 @@ It demonstrates web development best practices, including version control, respo
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/morgendee/Web-Project
    ```
 2. Place the project in your Apache `htdocs` directory.
 3. Start Apache and MariaDB (XAMPP recommended).
